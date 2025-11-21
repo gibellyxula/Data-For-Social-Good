@@ -1,0 +1,53 @@
+Our Citations Page:
+
+1. Who Helped Us:
+- AI
+
+What we asked:
+- “Can you please separate this list by putting quotation marks around each value 
+and then separating them all with a comma in one single line."
+
+What response we recieved:
+- A list of the breed values in the txt file that were separated by commas and quotation marks.
+We were going to use that list intially, but we changed our mind and rewrote our code.
+
+2. Who Helped Us:
+- AI
+
+What we asked:
+- “Can you please fix this list to have no quotation marks?”
+
+What response we recieved:
+- ChatGPT gave us the breeds name list without the quotation marks that were from the original list,
+so we could use that for the System.out.println() line of code we have in the scanner method.
+
+3. Who Helped Us:
+- Mr.Aiello
+
+What we asked:
+- How can we fix the errors that are popping up when we run the program,
+and why does the program only allow us to type the name of the breed of the dog 
+and it doesn't print out any information in the console?
+
+What response we recieved:
+- Mr. Aiello explained to us the missing method that we needed in order for our program to work as intended.
+He also went through our code and deleted unneccessary lines of code that were causing the program to produce
+the error message.
+
+4. Who Helped Us:
+- Google
+
+What we asked:
+- To explain certain code vocabulary that we didn't remember in order to write our comments/code
+
+What response we recieved:
+-Explanations of the vocab words such as the accessor method.
+
+5. What Helped Us:
+- Previous levels on Code.org
+
+How did this help?:
+- We were able to reference back to the levels to help us write our methods when we got stuck on what to write.
+
+6. We also used AI or asked other classmates to help guide us to what was wrong with some code segements 
+when we worked on the project outside of class.

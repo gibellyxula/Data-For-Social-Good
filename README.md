@@ -22,8 +22,7 @@ so that I can fullfill my childhood dreams of having the perfect companion.
 
 ## Dataset 
 
-Include a hyperlink to the source of your dataset used for this project. Additionally, provide a short description of each column used from the dataset, and the data type. 
-Dataset: https://docs.google.com/spreadsheets/d/1H5PXIV7F8tVom4Zcc1-wX65Ku-RtyRKkzeWeGxpka_4/edit?usp=sharing
+Dataset Link: https://docs.google.com/spreadsheets/d/1H5PXIV7F8tVom4Zcc1-wX65Ku-RtyRKkzeWeGxpka_4/edit?usp=sharing
 - **Name** (String) - the name of the breed of dog
 - **Breed Group** (String) - type of breed the dog is 
 - **Minimum Life Span** (int) - the minimum amount of years the dog will live
@@ -31,7 +30,7 @@ Dataset: https://docs.google.com/spreadsheets/d/1H5PXIV7F8tVom4Zcc1-wX65Ku-RtyRK
 - **Maximum Weight** (int) - the maximum weight that the dog will reach
 
 ## UML Diagram 
-![UML Diagram for my project](nameOfImageFileHere.png) 
+UML Diagram for my project: ![alt text](image.png)
 
 ## Description 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+My partner and I decided to create a program that prints out information based on the breed name the user inputs. The information that prints out includes the breed name, breed type, minimum life span, maximum height, and the maximum weight. To code this project, we used 1D arrays, an initializer list, text files, etc., for our program to work. In our methods we included indexs, for loops, enhanced for loops, etc. Our project addressed the users goal because by inputting a certain breed into our program, the user is able to read the information being printed out and choose whether or not that dog can be a perfect fit for them.
